@@ -26,7 +26,7 @@
 
  <!-- semitransparent blueish grey -->
     <color name="incall_call_banner_text_color">#FFFFFF</color> <!-- white -->
-    <color name="incall_button_background">#000000</color>
+    <color name="incall_button_background">#2A2A2A</color>
     <color name="incall_call_glowpad_background">#40000000</color> <!-- semitransparent black -->
 
     <!-- DTMF Dialer -->
