@@ -24,10 +24,11 @@
     <color name="incall_secondary_info_background">#80000000</color> <!-- semitransparent blueish grey -->
 
 
- <!-- semitransparent blueish grey -->
+    <!-- semitransparent blueish grey -->
     <color name="incall_call_banner_text_color">#FFFFFF</color> <!-- white -->
     <color name="incall_button_background">#2A2A2A</color>
     <color name="incall_call_glowpad_background">#40000000</color> <!-- semitransparent black -->
+    <color name="transparent_glowpad_background">#40000000</color>
 
     <!-- Color of the theme of the People app -->
     <color name="people_app_theme_color">#33B5E5</color>
